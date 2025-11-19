@@ -18,7 +18,7 @@ import comfy.text_encoders.cosmos
 import comfy.text_encoders.lumina2
 import comfy.text_encoders.wan
 import comfy.text_encoders.ace
-import comfy.text_encoders.omnigen2
+# import comfy.text_encoders.omnigen2
 import comfy.text_encoders.qwen_image
 import comfy.text_encoders.hunyuan_image
 
